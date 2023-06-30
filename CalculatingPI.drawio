@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T16:45:04.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="wkwY5mlwY48SGgorBBK5" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T17:02:54.039Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="jezWCKMruwf3sFt5d6_r" version="21.5.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1379" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,8 +56,14 @@
         <mxCell id="Xr2MPdbNh4fu_b-TiUGf-10" value="Add 2 to the denominator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Xr2MPdbNh4fu_b-TiUGf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Xr2MPdbNh4fu_b-TiUGf-15" target="Xr2MPdbNh4fu_b-TiUGf-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xr2MPdbNh4fu_b-TiUGf-15" value="Multiply the value by 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2MPdbNh4fu_b-TiUGf-17" value="Display the value in some way" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
